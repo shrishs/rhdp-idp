@@ -23,5 +23,5 @@ spec:
     replicas: 1
     route:
       enabled: true
-      host: rhdh.apps.cluster-tnczm.dynamic.redhatworkshops.io
-      subdomain: apps.cluster-tnczm.dynamic.redhatworkshops.io
+      host: rhdh.apps.cluster-8gpsl.dynamic.redhatworkshops.io
+      subdomain: apps.cluster-8gpsl.dynamic.redhatworkshops.io
